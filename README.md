@@ -1,6 +1,6 @@
 # BitDogLab_GPIO
 
-__Subgrupo 0__<br>
+__SUBGRUPO 0__<br>
 Repositório criado a fim de registrar a realização da atividade de cunho __opcional participativo__ referente à aula síncrona do dia 14/01/2025.
 
 ## ATIVIDADE 
