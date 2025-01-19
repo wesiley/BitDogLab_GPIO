@@ -33,5 +33,8 @@ Vale ressaltar que as estratégias de acionamento dos LEDs e de geração do sin
 
 [Ana Karolina Disigant Reis]()<br>
 [Andressa Sousa Fonseca]()<br>
+[Lucas Carneiro de Araújo Lima]()<br>
 [Luiz Rodrigo Oliveira da Silva]()<br>
-[Matheus Santos Souza]()
+[Matheus Santos Souza]()<br>
+[Wesley R.]()
+
