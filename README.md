@@ -32,7 +32,7 @@ Vale ressaltar que as estratégias de acionamento dos LEDs e de geração do sin
 ## PROJETOS PUBLICADOS NO WOKWI WEB
 
 [Ana Karolina Disigant Reis]()<br>
-[Andressa Sousa Fonseca]()<br>
+[Andressa Sousa Fonseca](https://wokwi.com/projects/420538470228380673)<br>
 [Gabriel Vitor](https://wokwi.com/projects/420540418141968385)<br>
 [Lucas Carneiro de Araújo Lima]()<br>
 [Luiz Rodrigo Oliveira da Silva]()<br>
