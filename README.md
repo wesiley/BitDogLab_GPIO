@@ -15,7 +15,7 @@ Para esta prática, os seguintes componentes e acessórios se fazem necessários
 3) Cabo tipo micro-usb para usb-a;
 4) Computador pessoal.
 
-O código com a lógica adotada pelo grupo se encontra no presente reposítório e o resultado pode ser assistido no vídeo alocado neste link: [link aqui]().
+__O código com a lógica adotada pelo grupo se encontra no presente reposítório e o resultado pode ser assistido no vídeo alocado neste link: [link aqui]().__
 
 Vale ressaltar que as estratégias de acionamento dos LEDs e de geração do sinal elétrico do buzzer são adotadas com base nos critérios da equipe de desenvolvimento. Tais critérios devem seguir as seguintes rotinas a fim de contemplar os requisitos da tarefa:
 
@@ -33,6 +33,7 @@ Vale ressaltar que as estratégias de acionamento dos LEDs e de geração do sin
 
 [Ana Karolina Disigant Reis]()<br>
 [Andressa Sousa Fonseca]()<br>
+[Gabriel Vitor]()<br>
 [Lucas Carneiro de Araújo Lima]()<br>
 [Luiz Rodrigo Oliveira da Silva]()<br>
 [Matheus Santos Souza]()<br>
