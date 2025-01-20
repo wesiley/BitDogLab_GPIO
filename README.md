@@ -34,7 +34,7 @@ Vale ressaltar que as estratégias de acionamento dos LEDs e de geração do sin
 [Ana Karolina Disigant Reis]()<br>
 [Andressa Sousa Fonseca](https://wokwi.com/projects/420538470228380673)<br>
 [Gabriel Vitor](https://wokwi.com/projects/420540418141968385)<br>
-[Lucas Carneiro de Araújo Lima]()<br>
+[Lucas Carneiro de Araújo Lima](https://wokwi.com/projects/420558946603044865)<br>
 [Luiz Rodrigo Oliveira da Silva]()<br>
 [Matheus Santos Souza]()<br>
 [Wesley R.](https://wokwi.com/projects/420551723560943617)
