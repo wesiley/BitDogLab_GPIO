@@ -92,5 +92,5 @@ Estas instruções facilitam o uso e experimentação com o BitDogLab_GPIO. Para
 [Gabriel Vitor](https://wokwi.com/projects/420540418141968385)<br>
 [Lucas Carneiro de Araújo Lima](https://wokwi.com/projects/420558946603044865)<br>
 [Luiz Rodrigo Oliveira da Silva]()<br>
-[Matheus Santos Souza]()<br>
+[Matheus Santos Souza](https://wokwi.com/projects/420466825513664513)<br>
 [Wesley R.](https://wokwi.com/projects/420551723560943617)
