@@ -1,7 +1,10 @@
-# BitDogLab_GPIO
+ # BitDogLab_GPIO
 
 __SUBGRUPO 0__<br>
 Repositório criado a fim de registrar a realização da atividade de cunho __opcional participativo__ referente à aula síncrona do dia 14/01/2025.
+
+__COMPONENTES DO GRUPO:__
+Ana Karolina Disigant Reis, Andressa Sousa Fonseca, Gabriel Vitor, Lucas Carneiro de Araújo Lima, Luiz Rodrigo Oliveira da Silva, Matheus Santos Souza e Wesley R.
 
 ## ATIVIDADE 
 __Microcontroladores - GPIO__<br>
@@ -82,9 +85,9 @@ Após iniciar o programa, você pode digitar os seguintes comandos para interagi
 
 Estas instruções facilitam o uso e experimentação com o BitDogLab_GPIO. Para dúvidas, consulte o código-fonte ou abra uma issue no repositório!
 
-## PROJETOS PUBLICADOS NO WOKWI WEB
+## ESCOPO DE PROJETOS PUBLICADOS NO WOKWI WEB
 
-[Ana Karolina Disigant Reis]()<br>
+[Ana Karolina Disigant Reis](https://wokwi.com/projects/420564132124860417)<br>
 [Andressa Sousa Fonseca](https://wokwi.com/projects/420538470228380673)<br>
 [Gabriel Vitor](https://wokwi.com/projects/420540418141968385)<br>
 [Lucas Carneiro de Araújo Lima](https://wokwi.com/projects/420558946603044865)<br>
