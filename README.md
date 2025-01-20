@@ -37,6 +37,6 @@ Vale ressaltar que as estratégias de acionamento dos LEDs e de geração do sin
 [Lucas Carneiro de Araújo Lima]()<br>
 [Luiz Rodrigo Oliveira da Silva]()<br>
 [Matheus Santos Souza]()<br>
-[Wesley R.]()
+[Wesley R.](https://wokwi.com/projects/420551723560943617)
 
 
