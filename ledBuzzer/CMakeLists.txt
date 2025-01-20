@@ -28,35 +28,35 @@ set(PICO_BOARD pico_w CACHE STRING "Board type")
 # Pull in Raspberry Pi Pico SDK (must be before project)
 include(pico_sdk_import.cmake)
 
-project(LedBuzer C CXX ASM)
+project(ledBuzzer C CXX ASM)
 
 # Initialise the Raspberry Pi Pico SDK
 pico_sdk_init()
 
 # Add executable. Default name is the project name, version 0.1
 
-add_executable(LedBuzer LedBuzer.c )
+add_executable(ledBuzzer ledBuzzer.c )
 
-pico_set_program_name(LedBuzer "LedBuzer")
-pico_set_program_version(LedBuzer "0.1")
+pico_set_program_name(ledBuzzer "ledBuzzer")
+pico_set_program_version(ledBuzzer "0.1")
 
 # Modify the below lines to enable/disable output over UART/USB
-pico_enable_stdio_uart(LedBuzer 0)
-pico_enable_stdio_usb(LedBuzer 1)
+pico_enable_stdio_uart(ledBuzzer 0)
+pico_enable_stdio_usb(ledBuzzer 0)
 
 # Add the standard library to the build
-target_link_libraries(LedBuzer
+target_link_libraries(ledBuzzer
         pico_stdlib)
 
 # Add the standard include files to the build
-target_include_directories(LedBuzer PRIVATE
+target_include_directories(ledBuzzer PRIVATE
   ${CMAKE_CURRENT_LIST_DIR}
 )
 
 # Add any user requested libraries
-target_link_libraries(LedBuzer 
+target_link_libraries(ledBuzzer 
         
         )
 
-pico_add_extra_outputs(LedBuzer)
+pico_add_extra_outputs(ledBuzzer)
 
